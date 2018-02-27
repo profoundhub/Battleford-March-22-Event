@@ -96,7 +96,6 @@
 
 <body>
 <div id="container-fluid">
-
   <nav class="navbar navbar-default navbar-static-top">
     <div class="container-fluid">
       <!-- Brand and toggle get grouped for better mobile display -->
@@ -125,16 +124,6 @@
       </div>      <!-- /.navbar-collapse -->
     </div>    <!-- /.container-fluid -->
   </nav>  <!-- / nav -->
-
-  <div style="width:100%; text-align:left;">
-      <iframe src="https://www.eventbrite.ca/e/nexus-networking-event-tickets-39557894728?ref=eweb" frameborder="0" height="1000" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
-      <div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;">
-        <a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none; position: relative; left: 41%;" target="_blank" href="http://www.eventbrite.ca/">Powered by Eventbrite &amp; Battleford Corp.</a>
-      </div>
-    </div>
-    <br />
-        <hr />    
-    <br />
     <div style="width:100%; text-align:left;">
       <iframe src="https://www.eventbrite.ca/e/nexus-networking-event-tickets-39557894728?ref=eweb" frameborder="0" height="1000" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
       <div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;">
@@ -308,7 +297,7 @@
     <br />
         <hr />
     <br />    
-
+    
     <div id="social"></div>
     <h2>Social</h2>
 
@@ -383,23 +372,25 @@
         <hr />
     <br />
         
-
     <div id="affiliates"></div>
     <h2>Affiliates</h2>
 
-        <div align="center">
-        <a href="https://goo.gl/g9QQNH"><img src="./img/battleford-affiliates.png" style="width: 100%" /></a>
-        </div>
-
-        <br />
-            <hr />
-        <br />
-
+    <div align="center">
+      <a href="https://goo.gl/g9QQNH"><img src="./img/battleford-affiliates.png" style="width: 100%" /></a>
+    </div>
+    <br />
+        <hr />
+    <br />
   </div> 
 
 
     <div id="about"></div>
     <h2>About</h2>
+
+
+
+    <div id="faq"></div>
+    <h2>FAQ</h2>
 
 
 <div class="g-group g-group--page-margin-reset l-sm-pad-top-5 l-pad-top-6">
@@ -463,16 +454,11 @@
   <a id="scrollUp" href="#top" style="position: fixed; z-index: 2147483647;"></a>
 */ ?>
 
-
-    <div id="faq"></div>
-    <h2>FAQ</h2>
-    
   <div id="scrollUp-active" style="position: absolute; top: 300px; width: 100%; border-top: 1px dotted rgb(0, 255, 255); z-index: 2147483647;"></div>
 
 <?php /*
   <script src="https://markgoodyear.com/labs/scrollup/js/jquery.scrollUp.min.js"></script>
 */ ?>
-
     <script>
         $(function () {
             $.scrollUp({
@@ -501,4 +487,5 @@
     </script>
 
 </div> <!-- container ends -->
+</body>
 </html>
