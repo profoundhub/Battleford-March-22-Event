@@ -437,11 +437,7 @@
 <p class="normal">Why Battleford Corp? Because we know the secret to success is the result of preparation, hard work and learning from failure and great companies are created by a team of people, not by one person. Here at Battleford Corporation, we strive to make your business successful by laying a solid foundation right from the very start. From the initial business plans, proposals to pre-launching your start-up and business development, Battleford Corporation is there to guide you, every step of the way. Rest assured, we take on your business ideas very seriously and can help you develop them from the Ideation phase to putting a proper proposal together and ultimately revealing your grand reality to the world. The experts on our team will be able to guide you each and every step of the way from strategy, marketing, financial advice, business development and more.&nbsp;&nbsp;</p>
 <p class="normal"><span>&nbsp;</span></p>
                                 </div>
-                            </div>
-                            <div class="js-xd-read-more-toggle-director read-more__toggle-director l-pad-bot-4 l-sm-pad-bot-3">
-                                <a href="javascript://" class="read-more__more" data-read-type="ReadMore" data-checkpoint-name="read_more">Read more</a>
-                                <a href="javascript://" class="read-more__less" data-read-type="ReadLess" data-checkpoint-name="read_less">Read less</a>
-                            </div>
+                            </div>                            
                         </div>
                     </div>                
             </div>
