@@ -387,12 +387,14 @@
     <div id="affiliates"></div>
     <h2>Affiliates</h2>
 
-    <div align="center">
-      <a href="https://goo.gl/g9QQNH"><img src="./img/battleford-affiliates.png" style="width: 100%" /></a>
-    </div>
-    <br />
-        <hr />
-    <br />
+        <div align="center">
+        <a href="https://goo.gl/g9QQNH"><img src="./img/battleford-affiliates.png" style="width: 100%" /></a>
+        </div>
+
+        <br />
+            <hr />
+        <br />
+
   </div> 
 
 </div> <!-- container ends -->
