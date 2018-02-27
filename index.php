@@ -375,25 +375,20 @@
     <div id="affiliates"></div>
     <h2>Affiliates</h2>
 
-    <div align="center">
-      <a href="https://goo.gl/g9QQNH"><img src="./img/battleford-affiliates.png" style="width: 100%" /></a>
-    </div>
-    <br />
-        <hr />
-    <br />
-  </div> 
+        <div align="center">
+        <a href="https://goo.gl/g9QQNH"><img src="./img/battleford-affiliates.png" style="width: 100%" /></a>
+        </div>
+        
+        <br />
+            <hr />
+        <br />
 
+  </div> 
 
     <div id="about"></div>
     <h2>About</h2>
 
-
-
-    <div id="faq"></div>
-    <h2>FAQ</h2>
-
-
-<div class="g-group g-group--page-margin-reset l-sm-pad-top-5 l-pad-top-6">
+        <div class="g-group g-group--page-margin-reset l-sm-pad-top-5 l-pad-top-6">
                     
                     <div class="l-align-center l-pad-bot-1">
                         <picture content="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F37744623%2F37519837168%2F2%2Flogo.png?h=80&amp;w=80&amp;s=5b7a58f7caae0e348c387a0390dc45d2">
@@ -450,15 +445,12 @@
                         </div>
                     </div>                
             </div>
-<?php /*
-  <a id="scrollUp" href="#top" style="position: fixed; z-index: 2147483647;"></a>
-*/ ?>
 
-  <div id="scrollUp-active" style="position: absolute; top: 300px; width: 100%; border-top: 1px dotted rgb(0, 255, 255); z-index: 2147483647;"></div>
+    <div id="faq"></div>
+    <h2>FAQ</h2>
 
-<?php /*
-  <script src="https://markgoodyear.com/labs/scrollup/js/jquery.scrollUp.min.js"></script>
-*/ ?>
+    <div id="scrollUp-active" style="position: absolute; top: 300px; width: 100%; border-top: 1px dotted rgb(0, 255, 255); z-index: 2147483647;"></div>
+
     <script>
         $(function () {
             $.scrollUp({
