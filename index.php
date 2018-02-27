@@ -398,6 +398,77 @@
   </div> 
 
 
+    <div id="about"></div>
+    <h2>About</h2>
+
+
+<div class="g-group g-group--page-margin-reset l-sm-pad-top-5 l-pad-top-6">
+                    
+                    <div class="l-align-center l-pad-bot-1">
+                        <picture content="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F37744623%2F37519837168%2F2%2Flogo.png?h=80&amp;w=80&amp;s=5b7a58f7caae0e348c387a0390dc45d2">
+                            <source srcset="
+                                https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F37744623%2F37519837168%2F2%2Flogo.png?h=80&amp;w=80&amp;s=5b7a58f7caae0e348c387a0390dc45d2,
+                                https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F37744623%2F37519837168%2F2%2Flogo.png?h=160&amp;w=160&amp;s=35aee6440afb19925d8835fff8992e50 2x
+                            ">
+                            <img class="photo js-picturefill-img image--medium" alt="Organizer Image" data-automation="organizer-logo">
+                        </picture>
+                    </div>
+                
+                <div class="l-align-center">
+                    <h2 class="heading-secondary-responsive" data-automation="organizer-name">
+                        <span class="is-hidden-accessible">Organizer: </span>
+                        Battleford Corp.
+                    </h2>
+                    <p class="l-mar-top-1 g-cell text-heading-secondary">Organizer of Markham Nexus Networking Event</p>
+                </div>
+                    <div class="g-cell g-cell-1-1 l-align-center">
+                        <ul class="inline-link-list" <style="list-style-type: none;">                            
+                            <li style="display: inline;">
+                                <a href="http://battlefordcorp.com/" target="_blank" data-automation="organizer-website" style="text-decoration: none;">
+                                    <i class="ico-link-badge ico--medium"><span class="is-hidden-accessible">Organizer Website</span></i><img src="./img/web.png" style="width: 32px;" /> : Website
+                                </a>
+                            </li>
+                            <li style="display: inline;">
+                                <a href="https://www.facebook.com/battlefordcorp" target="_blank" style="text-decoration: none;">
+                                    <i class="ico-facebook-badge ico--medium"><span class="is-hidden-accessible">Organizer Facebook Profile</span></i><img src="./img/fb.png" style="width: 32px;" /> : battlefordcorp
+                                </a>
+                            </li>
+                            <li style="display: inline;">
+                                <a href="https://www.twitter.com/battleford_corp" target="_blank" style="text-decoration: none;">
+                                    <i class="ico-twitter-badge ico--medium"><span class="is-hidden-accessible">Organizer Twitter Profile</span></i><img src="./img/tw.png" style="width: 32px;" /> : battleford_corp
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                
+                    <div class="g-cell g-cell-1-1 g-cell--no-gutters ">
+                        <div class="js-d-read-more read-more js-read-more read-more--medium-down read-more--expanded" dorsal-guid="88749e30-57f8-a7b7-c831-d619a0267584" data-xd-wired="read-more">
+                            <div class="js-xd-read-more-toggle-view read-more__toggle-view">
+                                <div class="js-xd-read-more-contents l-mar-top-3 has-user-generated-content" data-automation="organizer-description">
+                                    <p class="normal"><span>Battleford Corporation was started by a couple of Entrepreneurs, business experts and consultants, who had a desire to assist other businesses navigate the tsunami of changes on the Digital Marketing, Social Media and Local Business space, by patiently and decisively evolving them into a successful companies. Their goal was to help entrepreneurs test their ideas, pivot, hone &amp; optimize their businesses, in order to get started the right way, and seamlessly ramp up, scale and turn their dreams into realities. With Battleford’s ongoing support, our clients are supported and fearless, with the knowledge that they will be always on the right path to success and profitability.</span>&nbsp;</p>
+<p class="normal"><span>At Battleford Corporation, we aim to grow your business. In our ranks are groups of highly motivated and tech-savvy individuals who are engaged, enterprising &amp; focused on the long term ROI, with keen business knowledge, insights and a thorough understanding of how the business is done in the real world. With this type of knowledge, you can be confident that Battleford Corporation is able to provide you with an array of unique knowledge about your business, your market and what are the best methods &amp; strategies you need to employ today, so that you would not be lost or in the dark tomorrow, all by simply following our guidance, to developing the successful business you desire. </span></p>
+<p class="normal">Whether you have a small business idea or something that is immense, working on a new start-up business or one that has been in the market for a while now, Battleford Corporation will be able to provide you with the solutions that you need in order to be on the pathway of success.</p>
+<p class="normal">Why Battleford Corp? Because we know the secret to success is the result of preparation, hard work and learning from failure and great companies are created by a team of people, not by one person. Here at Battleford Corporation, we strive to make your business successful by laying a solid foundation right from the very start. From the initial business plans, proposals to pre-launching your start-up and business development, Battleford Corporation is there to guide you, every step of the way. Rest assured, we take on your business ideas very seriously and can help you develop them from the Ideation phase to putting a proper proposal together and ultimately revealing your grand reality to the world. The experts on our team will be able to guide you each and every step of the way from strategy, marketing, financial advice, business development and more.&nbsp;&nbsp;</p>
+<p class="normal"><span>&nbsp;</span></p>
+                                </div>
+                            </div>
+                            <div class="js-xd-read-more-toggle-director read-more__toggle-director l-pad-bot-4 l-sm-pad-bot-3">
+                                <a href="javascript://" class="read-more__more" data-read-type="ReadMore" data-checkpoint-name="read_more">Read more</a>
+                                <a href="javascript://" class="read-more__less" data-read-type="ReadLess" data-checkpoint-name="read_less">Read less</a>
+                            </div>
+                        </div>
+                    </div>                
+            </div>
+<?php /*
+  <a id="scrollUp" href="#top" style="position: fixed; z-index: 2147483647;"></a>
+*/ ?>
+
+  <div id="scrollUp-active" style="position: absolute; top: 300px; width: 100%; border-top: 1px dotted rgb(0, 255, 255); z-index: 2147483647;"></div>
+
+<?php /*
+  <script src="https://markgoodyear.com/labs/scrollup/js/jquery.scrollUp.min.js"></script>
+*/ ?>
+
     <script>
         $(function () {
             $.scrollUp({
@@ -424,6 +495,6 @@
 
         !function(a,b,c){a.fn.scrollUp=function(b){a.data(c.body,"scrollUp")||(a.data(c.body,"scrollUp",!0),a.fn.scrollUp.init(b))},a.fn.scrollUp.init=function(d){var e=a.fn.scrollUp.settings=a.extend({},a.fn.scrollUp.defaults,d),f=a("<a/>",{id:e.scrollName,href:"#top",title:e.scrollText}).appendTo("body");e.scrollImg||f.html(e.scrollText),f.css({display:"none",position:"fixed",zIndex:e.zIndex}),e.activeOverlay&&a("<div/>",{id:e.scrollName+"-active"}).css({position:"absolute",top:e.scrollDistance+"px",width:"100%",borderTop:"1px dotted"+e.activeOverlay,zIndex:e.zIndex}).appendTo("body"),scrollEvent=a(b).scroll(function(){switch(scrollDis="top"===e.scrollFrom?e.scrollDistance:a(c).height()-a(b).height()-e.scrollDistance,e.animation){case"fade":a(a(b).scrollTop()>scrollDis?f.fadeIn(e.animationInSpeed):f.fadeOut(e.animationOutSpeed));break;case"slide":a(a(b).scrollTop()>scrollDis?f.slideDown(e.animationInSpeed):f.slideUp(e.animationOutSpeed));break;default:a(a(b).scrollTop()>scrollDis?f.show(0):f.hide(0))}}),f.click(function(b){b.preventDefault(),a("html, body").animate({scrollTop:0},e.topSpeed,e.easingType)})},a.fn.scrollUp.defaults={scrollName:"scrollUp",scrollDistance:300,scrollFrom:"top",scrollSpeed:300,easingType:"linear",animation:"fade",animationInSpeed:200,animationOutSpeed:200,scrollText:" ",scrollImg:!1,activeOverlay:!1,zIndex:2147483647},a.fn.scrollUp.destroy=function(d){a.removeData(c.body,"scrollUp"),a("#"+a.fn.scrollUp.settings.scrollName).remove(),a("#"+a.fn.scrollUp.settings.scrollName+"-active").remove(),a.fn.jquery.split(".")[1]>=7?a(b).off("scroll",d):a(b).unbind("scroll",d)},a.scrollUp=a.fn.scrollUp}(jQuery,window,document);
     </script>
-    
+
 </div> <!-- container ends -->
 </html>
