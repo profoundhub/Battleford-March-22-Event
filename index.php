@@ -44,7 +44,6 @@
     }
 
   </style>
-  <?php flush(); ?>
   <!-- Facebook Pixel Code -->
   <script>
     ! function(f, b, e, v, n, t, s) {
@@ -97,5 +96,36 @@
 
 <body>
 <div id="container-fluid">
+
+
+  <nav class="navbar navbar-default navbar-static-top">
+    <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle Navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+        <a class="navbar-brand" href="#">Markham Nexus Networking Event</a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav">
+          <li class="active"><a href="#">Tickets <span class="sr-only">(current)</span></a></li>
+          <li><a href="#sponsors">Sponsors</a></li>          
+          <li><a href="https://goo.gl/g9QQNH">Affiliates</a></li>    
+          <li><a href="./sponsorships/">Be a Sponsor</a></li>    
+        </ul>        
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="#faq">FAQ</a></li>          
+          <li><a href="#about">About</a></li>          
+          <li><a href="#social">Social</a></li>          
+        </ul>
+      </div>      <!-- /.navbar-collapse -->
+    </div>    <!-- /.container-fluid -->
+  </nav>  <!-- / nav -->
+  
 </div> <!-- container ends -->
 </html>
