@@ -114,7 +114,7 @@
           <li class="active"><a href="#">Tickets <span class="sr-only">(current)</span></a></li>
           <li><a href="#sponsors">Sponsors</a></li>          
           <li><a href="https://goo.gl/g9QQNH">Affiliates</a></li>    
-          <li><a href="../../sponsorships/">Be a Sponsor</a></li>    
+          <li><a href="http://battlefordcorp.com/sponsorships/">Be a Sponsor</a></li>    
         </ul>        
         <ul class="nav navbar-nav navbar-right">
           <li><a href="#faq">FAQ</a></li>          
