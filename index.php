@@ -96,5 +96,6 @@
 </script>
 
 <body>
+<div id="container-fluid">
 </div> <!-- container ends -->
 </html>
