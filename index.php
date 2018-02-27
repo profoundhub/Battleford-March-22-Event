@@ -308,5 +308,82 @@
     <br />
         <hr />
     <br />    
+
+    <div id="social"></div>
+    <h2>Social</h2>
+
+    <style>
+      .social {
+        margin-top: 125px;
+      }
+
+      .social a {
+        color: #fff;
+        /* background: #99583d; */
+        border-radius: 4px;
+        text-align: center;
+        text-decoration: none;
+        font-family: fontawesome;
+        position: relative;
+        display: inline-block;
+        width: 130px;
+        height: 40px;
+        padding-top: 12px;
+        margin: 0 2px;
+        transition: all .5s;
+      }
+
+      .social a:hover {
+        /* background: #ff0000; */
+      }
+
+      .social a:hover p {
+        bottom: 35px;
+        visibility: visible;
+      }
+
+      .social a p {
+        color: #666;
+        position: absolute;
+        bottom: 0;
+        left: -25px;
+        right: -25px;
+        padding: 5px 7px;
+        z-index: -1;
+        font-size: 14px;
+        border-radius: 2px;
+        background: #fff;
+        visibility: hidden;
+        transition: all 0.5s cubic-bezier(0.6, -0.6, 0.2, 1.5);
+      }
+
+      .social a p:before {
+        content: '';
+        width: 0;
+        height: 0;
+        border-left: 5px solid transparent;
+        border-right: 5px solid transparent;
+        border-top: 5px solid #fff;
+        position: absolute;
+        bottom: -5px;
+        left: 40px;
+      }
+    </style>    
+    <div class="social">
+      <a href="https://goo.gl/6PVKBa" rel="muse" targer="_blank"><img src=".img/facebook.png" style="width: 100%" /><br />Facebook</a>
+      <a href="https://goo.gl/F3nntn" rel="muse" targer="_blank"><img src=".img/google+.png" style="width: 100%" /><br />Google+</a>
+      <a href="https://goo.gl/sUTUhj" rel="muse" targer="_blank"><img src=".img/insta.png" style="width: 100%" /><br />Instagram</a>
+      <a href="https://goo.gl/uQtEFn" rel="muse" targer="_blank"><img src=".img/linkedin.png" style="width: 100%" /><br />Linkedin</a>
+      <a href="https://goo.gl/oaeL75" rel="muse" targer="_blank"><img src=".img/pinterest.png" style="width: 100%" /><br />Pinterest</a>
+      <a href="https://goo.gl/fnSfQj" rel="muse" targer="_blank"><img src=".img/tumblr.png" style="width: 100%" /><br />Tumblr</a>
+      <a href="https://goo.gl/qTRM37" rel="muse" targer="_blank"><img src=".img/twitter.png" style="width: 100%" /><br />Twitter</a>
+      <a href="https://goo.gl/SvA321" rel="muse" targer="_blank"><img src=".img/youtube.png" style="width: 100%" /><br />YouTube</a>
+    </div>
+    <br />
+        <hr />
+    <br />
+        
+
+
 </div> <!-- container ends -->
 </html>
