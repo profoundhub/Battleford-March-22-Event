@@ -378,7 +378,7 @@
         <div align="center">
         <a href="https://goo.gl/g9QQNH"><img src="./img/battleford-affiliates.png" style="width: 100%" /></a>
         </div>
-        
+
         <br />
             <hr />
         <br />
@@ -479,5 +479,8 @@
     </script>
 
 </div> <!-- container ends -->
+
+<Footer></Footer>
+
 </body>
 </html>
