@@ -97,7 +97,6 @@
 <body>
 <div id="container-fluid">
 
-
   <nav class="navbar navbar-default navbar-static-top">
     <div class="container-fluid">
       <!-- Brand and toggle get grouped for better mobile display -->
@@ -126,6 +125,16 @@
       </div>      <!-- /.navbar-collapse -->
     </div>    <!-- /.container-fluid -->
   </nav>  <!-- / nav -->
-  
+
+  <div style="width:100%; text-align:left;">
+      <iframe src="https://www.eventbrite.ca/e/nexus-networking-event-tickets-39557894728?ref=eweb" frameborder="0" height="1000" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+      <div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;">
+        <a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none; position: relative; left: 41%;" target="_blank" href="http://www.eventbrite.ca/">Powered by Eventbrite &amp; Battleford Corp.</a>
+      </div>
+    </div>
+    <br />
+        <hr />    
+    <br />
+    
 </div> <!-- container ends -->
 </html>
