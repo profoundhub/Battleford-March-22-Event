@@ -463,6 +463,10 @@
   <a id="scrollUp" href="#top" style="position: fixed; z-index: 2147483647;"></a>
 */ ?>
 
+
+    <div id="faq"></div>
+    <h2>FAQ</h2>
+    
   <div id="scrollUp-active" style="position: absolute; top: 300px; width: 100%; border-top: 1px dotted rgb(0, 255, 255); z-index: 2147483647;"></div>
 
 <?php /*
